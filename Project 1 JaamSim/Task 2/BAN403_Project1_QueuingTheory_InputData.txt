@@ -1,0 +1,5 @@
+ScenarioIndex	SimDuration	Distribution
+1	500000	Exponential
+2	500000	Normal
+3	500000	Uniform
+4	500000	Gamma
